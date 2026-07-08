@@ -67,6 +67,10 @@ Breaks down KPIs into contributing factors, enabling deeper analysis and root-ca
 
 ---
 
+<img width="878" height="481" alt="Screenshot 2026-07-01 153340" src="https://github.com/user-attachments/assets/e3cfe6f1-4590-4d8a-986f-536942d5601b" />
+
+
+
 ## Microsoft Fabric Implementation
 
 This project demonstrates several Microsoft Fabric concepts, including:
