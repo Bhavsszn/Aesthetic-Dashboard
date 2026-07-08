@@ -82,7 +82,7 @@ This project demonstrates several Microsoft Fabric concepts, including:
 ```
 ├── Assessment.pbix          # Power BI dashboard
 ├── README.md                # Project documentation
-├── screenshots/             # Dashboard screenshots (recommended)
+├── Demo          # Dashboard Demo
 ```
 
 ---
