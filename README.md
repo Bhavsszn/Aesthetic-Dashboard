@@ -1,5 +1,8 @@
 # Financial Performance Dashboard (Power BI & Microsoft Fabric)
 
+<img width="941" height="475" alt="Screenshot 2026-07-08 153915" src="https://github.com/user-attachments/assets/58326a41-7b33-49ae-b0d4-91d330aa7a4b" />
+
+
 An interactive Business Intelligence dashboard built with **Microsoft Power BI** and **Microsoft Fabric** to analyze financial and operational performance through KPI reporting, executive dashboards, and interactive analytics.
 
 ## Overview
