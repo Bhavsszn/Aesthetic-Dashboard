@@ -116,7 +116,3 @@ This project showcases the ability to:
 ## Author
 
 **Bhavya Sharma**
-
-**LinkedIn:** *(Add your profile link)*
-
-**GitHub:** https://github.com/Bhavsszn
